@@ -2,6 +2,7 @@ UP = 1
 DOWN = 2
 FLOOR_COUNT = 6
 
+
 class ElevatorLogic(object):
     """
     An incorrect implementation. Can you make it pass all the tests?
